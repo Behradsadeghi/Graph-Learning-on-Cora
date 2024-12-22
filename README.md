@@ -60,8 +60,7 @@ The dataset used is the **Cora citation graph**:
 - **Graph Structure**:
   ![Graph Visualization](https://github.com/Behradsadeghi/Graph-Learning-on-Cora/blob/2da056f7583f010bec1c74dcb4c73401171f0af8/Graph%20Structure.png)
 
-- **Centrality Measures**:
-  Degree, closeness, betweenness, and eigenvector centralities are computed and displayed for the top 5 nodes.
+
 
 ---
 
